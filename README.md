@@ -13,4 +13,10 @@ Arensito (numbers and some symbols): http://www.pvv.org/~hakonhal/main.cgi/keybo
 This is a custom built keyboard, that runs compiled C language on board, which allows for essentially any keyboard layout.<br>
 Using QMK: https://docs.qmk.fm/#/
 
-![Helidox Corne](https://pbs.twimg.com/media/D7kWqNaV4AAlW8v.jpg)
+
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/44208530/137313774-6714b830-9ede-4afc-99bb-bf64c7698af8.JPG" width="49%">
+  <img src="https://user-images.githubusercontent.com/44208530/137314109-57718e86-1912-4cb8-a78e-11a2237d6a0f.JPG" width="49%">
+</p>
+
