@@ -3,20 +3,21 @@ I use a customized dvorak keyboard layout. There are few issues with normal dvor
 
 ### Inspiration:
 Dvorak (letters): https://en.wikipedia.org/wiki/Dvorak_keyboard_layout<br>
-Arensito (numbers and some symbols): http://www.pvv.org/~hakonhal/main.cgi/keyboard<br>
+Arensito (numbers and inspiration for symbols): http://www.pvv.org/~hakonhal/main.cgi/keyboard<br>
 
 ### Folder structure
 `.config/karabiner` is a config for Karabiner-Elements (laptop internal keyboard)<br>
-`.qmk_firmware` is a config for my main keyboard: Helidox Corne
+`qmk_firmware` is a config for my main two main keyboards: Helidox Corne and TBK Mini
 
-### Helidox Corne
-This is a custom built keyboard, that runs compiled C language on board, which allows for essentially any keyboard layout.<br>
-Using QMK: https://docs.qmk.fm/#/
+### TBK Mini - Main keyboard
+This a custom built (handwired) keyboard that runs compiled C code on board, which allows for essentially any keyboard layout.<br>
+Powered by QMK: https://docs.qmk.fm/
 
-
+### Helidox Corne - Secondary keyboard (at work)
+This is also a custom built keyboard, this one has a PCB instead of being handwired<br>
+Powered by QMK: https://docs.qmk.fm/
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/44208530/137313774-6714b830-9ede-4afc-99bb-bf64c7698af8.JPG" width="49%">
-  <img src="https://user-images.githubusercontent.com/44208530/137314109-57718e86-1912-4cb8-a78e-11a2237d6a0f.JPG" width="49%">
+  <img src="https://user-images.githubusercontent.com/44208530/140521985-d0fbe702-de83-4280-a72f-c009a853527c.JPG" width="49%">
+    <img src="https://user-images.githubusercontent.com/44208530/137314109-57718e86-1912-4cb8-a78e-11a2237d6a0f.JPG" width="49%">
 </p>
-
