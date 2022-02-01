@@ -19,10 +19,10 @@ Powered by QMK: https://docs.qmk.fm/
 
 ### Corne travel version - Laptop companion
 Bluetooth + low-profile version of the Helidox Corne keyboard<br>
-Powered by QMK: https://docs.qmk.fm/ <br>
-- [ ] TODO: Corne travel version images
+Powered by ZMK: https://zmk.dev <br>
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/44208530/140521985-d0fbe702-de83-4280-a72f-c009a853527c.JPG" width="49%">
-    <img src="https://user-images.githubusercontent.com/44208530/137314109-57718e86-1912-4cb8-a78e-11a2237d6a0f.JPG" width="49%">
+  <img src="https://user-images.githubusercontent.com/44208530/137314109-57718e86-1912-4cb8-a78e-11a2237d6a0f.JPG" width="49%">
+  <img src="https://user-images.githubusercontent.com/44208530/151934569-3b5568ec-e488-42be-a7d2-6a4b93fde823.JPG" width="49%">
 </p>
